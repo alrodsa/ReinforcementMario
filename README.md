@@ -77,21 +77,21 @@ It has been obtained execution statistics for **2 different methods**:
  - *Metodo de Resta de valores constantes* (MR) -> The penalties consist on concrete values that decrease the reward. 
  - *Metodo de Porcentajes* (MP) -> The penalties consist on percentage values that decrease the reward.
 
-[Fitness function mean]
+[Episode reward]
 
-<img src="https://github.com/alrodsa/SMW_GeneticAlgorithms/blob/main/graphics/Medias%20fitness%20function.svg">
+<img src="https://github.com/alrodsa/ReinforcementMario/blob/main/graphics/rewEpisode.svg">
 
-[Maximun Fitness function]
+[Maximun reward]
 
-<img src="https://github.com/alrodsa/SMW_GeneticAlgorithms/blob/main/graphics/M%C3%A1ximos%20fitness%20function.svg">
+<img src="https://github.com/alrodsa/ReinforcementMario/blob/main/graphics/rewMaxEpisodeRL.svg">
 
-[Number of time stage is completed]
+[Duration]
 
-<img src="https://github.com/alrodsa/SMW_GeneticAlgorithms/blob/main/graphics/N%C3%BAmero%20de%20veces%20que%20se%20supera%20el%20nivel.svg">
+<img src="https://github.com/alrodsa/ReinforcementMario/blob/main/graphics/durationRL.svg">
 
-[Execution time]
+[Mean reward]
 
-<img src="https://github.com/alrodsa/SMW_GeneticAlgorithms/blob/main/graphics/Tiempo%20de%20ejecuci%C3%B3n.svg">
+<img src="https://github.com/alrodsa/ReinforcementMario/blob/main/graphics/rewMeanRL.svg">
 
 
 
